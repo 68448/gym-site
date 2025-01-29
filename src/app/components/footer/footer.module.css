@@ -1,0 +1,8 @@
+.col{
+    display: flex !important;
+    justify-content: center;
+    background-color: transparent;
+}
+.row{
+    background: transparent;
+}
